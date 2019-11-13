@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "outDir": "dist/lib",
+    "typeRoots": ["node_modules/@types", "types"]
+  },
+  "include": ["src"]
+}
